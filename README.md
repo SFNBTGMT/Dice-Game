@@ -39,7 +39,7 @@ L'application utilise Docker pour la conteneurisation. Les services sont défini
 
 1. Clonez le dépôt :
     ```sh
-    git clone https://github.com/votre-utilisateur/dice-game.git
+    git clone https://github.com/SFNBTGMT/dice-game.git
     cd dice-game
     ```
 
