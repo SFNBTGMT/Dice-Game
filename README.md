@@ -1,19 +1,5 @@
 # Dice Game Application
 
-## Sommaire
-1. [Description](#description)
-2. [L'enonce du projet](#enonce)
-3. [Screencast](#screencast)
-4. [Environnement](#environnement)
-5. [Langages](#langages)
-6. [Prérequis](#prérequis)
-7. [Installation](#installation)
-8. [Configuration](#configuration)
-9. [Exécution](#exécution)
-10. [Utilisation](#utilisation)
-11. [Tests](#tests)
-12. [Dépannage](#dépannage)
-
 ## Description
 Cette application est un jeu de dés composé de deux parties : une interface web et une interface d'administration. L'interface web permet aux utilisateurs de jouer au jeu de dés, tandis que l'interface d'administration permet de gérer les utilisateurs, les sessions de jeu et les configurations.
 
