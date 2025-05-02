@@ -22,6 +22,7 @@ Cette application est un jeu de dés composé de deux parties : une interface we
 
 ## Screencast du projet
 
+https://github.com/user-attachments/assets/6f8478b5-43d5-45f7-af82-7c94c225ba92
 
 ## Environnement
 L'application utilise Docker pour la conteneurisation. Les services sont définis dans un fichier `docker-compose.yml`.
