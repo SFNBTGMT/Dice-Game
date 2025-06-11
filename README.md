@@ -4,7 +4,7 @@
 Cette application est un jeu de dés composé de deux parties : une interface web et une interface d'administration. L'interface web permet aux utilisateurs de jouer au jeu de dés, tandis que l'interface d'administration permet de gérer les utilisateurs, les sessions de jeu et les configurations.
 
 ## L'enonce du projet
-[3ICP_BXL (1).pdf](https://github.com/user-attachments/files/19474466/3ICP_BXL.1.pdf)
+[3ICP_BXL..pdf](https://github.com/user-attachments/files/20687535/3ICP_BXL.pdf)
 
 ## Screencast du projet
 
